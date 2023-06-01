@@ -1,0 +1,1386 @@
+[2023-04-10 15:14:42] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:14:42] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:01] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:01] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:03] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:03] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:04] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:04] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:09] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:09] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:09] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:09] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:10] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:10] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:10] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:10] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:11] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:17:11] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:28:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:28:56] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:01] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:01] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:02] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:02] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:03] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:29:03] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:44] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:44] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:47] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:47] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:50] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:53] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:53] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:31:55] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:08] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:08] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:09] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:09] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:11] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:11] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:11] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:11] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:12] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:12] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:13] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:13] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:14] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:14] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:14] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:14] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:15] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:15] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:16] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:16] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:16] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:16] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:17] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:17] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:17] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:17] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:18] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:18] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:18] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:18] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:19] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:19] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:19] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:19] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:20] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:20] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:20] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:20] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:21] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:22] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:22] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:22] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:22] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:23] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:23] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:24] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:24] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:24] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:24] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:25] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:25] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:25] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:25] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:26] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:27] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:27] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:48] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:48] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:51] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:51] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:54] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:56] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:57] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:57] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:58] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:58] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:59] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:59] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:59] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:32:59] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:00] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:00] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:07] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:07] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:08] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:207)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(132): Illuminate\\Log\\LogManager->resolve()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(119): Illuminate\\Log\\LogManager->get()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(642): Illuminate\\Log\\LogManager->driver()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(274): Illuminate\\Log\\LogManager->error()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(481): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2023-04-10 15:33:08] laravel.ERROR: Undefined constant "Barryvdh\laravel" {"exception":"[object] (Error(code: 0): Undefined constant \"Barryvdh\\laravel\" at /home/u890340864/domains/aplexiapharma.in/public_html/hms/config/app.php:210)
+[stacktrace]
+#0 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(160): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/u890340864/domains/aplexiapharma.in/public_html/hms/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/u890340864/domains/aplexiapharma.in/public_html/hms/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 

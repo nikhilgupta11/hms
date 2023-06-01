@@ -1,0 +1,27 @@
+<div class="d-flex align-items-center">
+    <a href="{{ route('pathology.test.edit',$row->id)}}" title="{{__('messages.common.edit') }}"
+       class="btn px-1 text-primary fs-3 ps-0">
+        <i class="fa-solid fa-pen-to-square"></i>
+    </a>
+    <a href="javascript:void(0)" title="{{__('messages.common.delete')}}" data-id="{{ $row->id }}"
+       class="deletePathologyTestBtn btn px-1 text-danger fs-3 pe-0" wire:key="{{$row->id}}">
+        <i class="fa-solid fa-trash"></i>
+    </a>
+    <!--<a href="javascript:void(0)" title="{{__('messages.common.pdf')}}" data-id="{{ $row->id }}"-->
+    <!--   class="btn px-1 text-secondary fs-3 pe-0" wire:key="{{$row->id}}">-->
+    <!--    <i class="fa-solid fa-file-pdf"></i>-->
+    <!--</a>-->
+    
+    <a href="#" title="{{__('messages.common.pdf')}}"
+   wire:click.prevent="downloadPdf({{ $row->id }})"
+   class="btn px-1 text-secondary fs-3 pe-0" wire:key="{{$row->id}}">
+    <i class="fa-solid fa-file-pdf"></i>
+</a>
+    
+<!--   <a href="#" onclick="generatePDF('{{ $row->id }}'); return false;">-->
+<!--  <i class="fa-solid fa-file-pdf"></i> Download PDF-->
+<!--</a>-->
+
+</div>
+
+
